@@ -17,6 +17,9 @@ Since I'm (still) learning Software Engineering, I also like to share my code so
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="https://codepen.io/INOSHA-PRIYASHANTHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thrilledlokki983" height="20" width="20" /></a>
+
 <a href="https://linkedin.com/in/inoshapriyashantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimohgideon" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/23032305/inosha-priyashantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thrilledlokki983" height="20" width="20" /></a>
 

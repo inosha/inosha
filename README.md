@@ -2,7 +2,7 @@
 <hr/>
 
 ### Who am I?
-<h5 align="left">I'm originally from Sri Lanka but currently living in The Finland with my Wife and my little boy (Errol). I really enjoy learning langauges, libraries & frameworks like Next.js, React, NodeJS, C# etc. as well as work with WordPress. Programming is a a second nature to me apart from taking care of my family.</h5>
+<h5 align="left">I'm originally from Sri Lanka but currently living in The Finland with my Wife and my little boy (Errol). I really enjoy learning langauges, libraries & frameworks like Nextjs, React, NodeJS, C# etc. as well as work with WordPress. Programming is a a second nature to me apart from taking care of my family.</h5>
 <!--
 I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
 I love to share knowledge with the rest of the world, and that's why I write articles and make YouTube videos.

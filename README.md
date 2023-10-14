@@ -1,4 +1,5 @@
-## Well, hello there 👋
+<h3 align="center"> Well, hello there 👋 </h3>
+<hr/>
 
 ### Who am I?
 

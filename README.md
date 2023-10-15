@@ -10,6 +10,8 @@ Since I'm (still) learning Software Engineering, I also like to share my code so
 -->
 ### My stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inosha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile_views" /></p>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=inosha&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inosha&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 <!--

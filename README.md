@@ -8,7 +8,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 I love to share knowledge with the rest of the world, and that's why I write articles and make YouTube videos.
 Since I'm (still) learning Software Engineering, I also like to share my code so others can make use of them.
 -->
-### My stats
+<h4>My stats </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inosha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile_views" /></p>
 

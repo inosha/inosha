@@ -14,6 +14,14 @@ Since I'm (still) learning Software Engineering, I also like to share my code so
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=inosha&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inosha&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nimohgideon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimohgideon" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/23032305/inosha-priyashantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thrilledlokki983" height="20" width="20" /></a>
+
+</p>
+
 <!--
 
 **inosha/inosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

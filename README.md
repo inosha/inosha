@@ -9,7 +9,7 @@ Since I'm (still) learning Software Engineering, I also like to share my code so
 ### My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=inosha&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomezgrave&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inosha&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 
 <!--
 **inosha/inosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
